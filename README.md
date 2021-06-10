@@ -1,5 +1,5 @@
-# Notes_app
-This is my first app .
+# notes_app
+
 A new Flutter application.
 
 ## Getting Started
